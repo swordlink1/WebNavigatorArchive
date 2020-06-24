@@ -4,3 +4,5 @@ In this archive, I store all versions of WebNavigator. (excluding beta builds of
 Those are old versions without setups. I wouldn't want to pack the old versions in a zip or create installer files. However, you can still download the branch and extract the folder you want!
 # Important Note
 This was made 3 months ago and WebNavigator is now obsolete. You should try VisualBrowser.NET. I lost 1.17 beta when I was cleaning up my computer.
+# License
+You can modify, distribute, and use this software in any way.
